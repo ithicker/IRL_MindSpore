@@ -1,4 +1,3 @@
-# IRL_MindSpore
 # Weakly Supervised Regression with Interval Targets
 This is the code for the paper: Weakly Supervised Regression with Interval Targets
 ## Setups
