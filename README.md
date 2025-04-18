@@ -4,6 +4,11 @@ This is the code for the paper: Weakly Supervised Regression with Interval Targe
 + Python 3.7.12
 + Numpy 1.21.6
 + Cuda 11.6
+## Command
+```
+conda create -n RIT python=3.7
+
+```
 
 ## Download Datasets
 1. Download AgeDB dataset from [here](https://ibug.doc.ic.ac.uk/resources/agedb/) and extract the zip file (you may need to contact the authors of AgeDB dataset for the zip password). 
