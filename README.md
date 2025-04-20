@@ -6,7 +6,9 @@ This is the code for the paper: Weakly Supervised Regression with Interval Targe
 + Cuda 11.6
 ## Command
 ```
-conda create -n RIT python=3.7
+conda create -n ××× python=3.7
+conda activate ×××
+pip install numpy==1.21.6
 
 ```
 
